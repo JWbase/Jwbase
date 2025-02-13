@@ -1,16 +1,20 @@
-### JWbase 👋
+# 🌟 Welcome to My GitHub Profile! 🌟
 
-<!--
-**JWbase/Jwbase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm **JWbase**, a passionate developer who loves to explore and create innovative solutions. My interests range from backend development to web development, and I enjoy working on projects that challenge my skills and creativity. Currently, I am studying Computer Science. 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Technologies
+
+- **Languages**: Java ☕
+- **Frameworks**: Spring Framework 🌱
+- **Tools**: Git, Docker 🛠️
+- **Databases**: MySQL 🗄️
+
+## Contact Me
+
+Feel free to reach out to me via email:
+
+- 📧 **Email**: jungwoo1002@gmail.com
+
+Thank you for visiting my profile! 🙏
